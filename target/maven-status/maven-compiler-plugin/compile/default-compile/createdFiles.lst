@@ -1,0 +1,7 @@
+com/example/entity/Produit.class
+com/example/controller/ProduitController.class
+com/example/controller/FournisseurController.class
+com/example/dao/IProduitDao.class
+com/example/dao/IFournisseurDao.class
+com/example/entity/Fournisseur.class
+com/example/SpringBootAngularJsDemoApplication.class
